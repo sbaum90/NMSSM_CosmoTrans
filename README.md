@@ -8,7 +8,7 @@ This code was used to produce the results for the publication
 
 This code needs the python package [CosmoTransitions](https://github.com/clwainwright/CosmoTransitions). It was tested with [CosmoTransitions_2.0.5](https://pypi.org/project/cosmoTransitions/2.0.5/#files)
 
-If you use NMSSM_CosmoTrans for your work, please cite [arXiv:2009.10743](https://arxiv.org/abs/2009.10743)
+If you use **NMSSM_CosmoTrans** for your work, please cite [arXiv:2009.10743](https://arxiv.org/abs/2009.10743)
 
 # Description
 
