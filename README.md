@@ -1,14 +1,14 @@
 # NMSSM_CosmoTrans
 
-Computes the Phase Transitions in the Next-to-Minimal Supersymmetric Standard Model using [CosmoTransitions](https://github.com/clwainwright/CosmoTransitions) (see also [this link](https://clwainwright.net/CosmoTransitions/)). 
+Computes the phase transitions in the Next-to-Minimal Supersymmetric Standard Model (NMSSM) using [CosmoTransitions](https://github.com/clwainwright/CosmoTransitions) (see also [this link](https://clwainwright.net/CosmoTransitions/)). 
 
 This code was used to produce the results for the publication
 [Nucleation is More than Critical -- A Case Study of the Electroweak Phase Transition in the NMSSM](https://arxiv.org/abs/2009.10743)
-(Sebastian Baum, Marcela Carena, Nausheen R. Shah, Carlos E. M. Wagner, Yikun Wang)
+(Sebastian Baum, Marcela Carena, Nausheen R. Shah, Carlos E. M. Wagner, and Yikun Wang).
 
-This code needs the python package [CosmoTransitions](https://github.com/clwainwright/CosmoTransitions). It was tested with [CosmoTransitions_2.0.5](https://pypi.org/project/cosmoTransitions/2.0.5/#files)
+This code needs the python package [CosmoTransitions](https://github.com/clwainwright/CosmoTransitions). It was tested with [CosmoTransitions_2.0.5](https://pypi.org/project/cosmoTransitions/2.0.5/#files).
 
-If you use **NMSSM_CosmoTrans** for your work, please cite [arXiv:2009.10743](https://arxiv.org/abs/2009.10743)
+If you use **NMSSM_CosmoTrans** for your work, please cite [arXiv:2009.10743](https://arxiv.org/abs/2009.10743).
 
 # Description
 
