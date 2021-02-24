@@ -1,0 +1,2 @@
+# HSM_low/GeV  HNSM_low/GeV  HS_low/GeV  key_low  HSM_high/GeV  HNSM_high/GeV  HS_high/GeV  key_high  T_c/GeV  trantype  
+1.747279E+02  4.985116E+00  -4.427383E+02  2  1.396902E-02  4.655392E-03  8.105561E-04  1  1.212049E+02  1
